@@ -1,4 +1,4 @@
-[![MasterHead](https://repository-images.githubusercontent.com/42008209/5b970e00-32f3-11eb-8b89-58d512afda44)](https://rohitshinde.netlify.app)
+[![MasterHead](https://media.licdn.com/dms/image/D5616AQEXR3YsLAA8-g/profile-displaybackgroundimage-shrink_350_1400/0/1669451300086?e=1697673600&v=beta&t=3bB4raoIoOsSnyKIrRZuTRbE769oDGI5enC7kB8i8c0)](https://rohitshinde.netlify.app)
 <h1 align="center">Hi 👋, I'm ROHIT SHINDE</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -17,7 +17,7 @@
 - ⚡ Fun fact **Look like HERO**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif?cid=ecf05e47r00dskhkq97dgrm4lazi0fvk9zfw91g2otwgeuc6&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <p align="left">
 <a href="https://linkedin.com/in/rohit shinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit shinde" height="30" width="40" /></a>
 <a href="https://instagram.com/x_rohit_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="x_rohit_02" height="30" width="40" /></a>
