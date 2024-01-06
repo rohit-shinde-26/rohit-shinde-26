@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQEXR3YsLAA8-g/profile-displaybackgroundimage-shrink_350_1400/0/1669451300086?e=1697673600&v=beta&t=3bB4raoIoOsSnyKIrRZuTRbE769oDGI5enC7kB8i8c0)](https://rohitshinde.netlify.app)
+
 <h1 align="center">Hi 👋, I'm ROHIT SHINDE</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -8,7 +8,7 @@
 
 
 # 💫 About Me:
-- 👋 Hi, Rohit Shinde here.<br>- 👀 1 years experience & I’m interested in Design & React.js<br>- 💞️ I love to create awesome websites using WordPress and React.<br>- 🌱 I’m currently learning Nextjs.<br>- 📫 Reach me {email : 'rohitshinde26072003@gmail.com' , mobile: '7745899252' }<br>- ⭐ Github Profile - https://github.com/rohit-shinde-26<br>- 🌃 Computer Science Student<br>- 🐱‍ Worked on learning latest technologies. 
+- 👋 Hi, Rohit Shinde here.<br>- 👀 1 years experience & I’m interested in Design & React.js<br>- 💞️ I love to create awesome websites using WordPress and React.<br>- 🌱 I’m currently learning Nextjs.<br>- 📫 Reach me {email : 'rohitshinde26072003@gmail.com' , mobile: '7745899252' }<br>- ⭐ Github Profile - https://github.com/rohit-shinde-26<br>- 🌃 Computer Science Student<br>- 🐱‍ Intrested in learning latest technologies. 
 
 
 ## 🌐 Socials:
