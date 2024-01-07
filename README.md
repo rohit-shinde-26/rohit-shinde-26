@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm ROHIT SHINDE</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://media.licdn.com/dms/image/D4D16AQF4U-qnueUqVg/profile-displaybackgroundimage-shrink_350_1400/0/1693578621162?e=1698883200&v=beta&t=AdF1-dlq0uE3-nNaip7dxWLEAmiTypPGuE9iaL2EqRo" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
 # 💫 About Me:
