@@ -1,12 +1,12 @@
 
-<h1 align="center">Hi 👋, I'm ROHIT SHINDE</h1>
+<h1 align="center">Hi 👋, I'm TUSHAR GOPALE</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
 
 
 # 💫 About Me:
-- 👋 Hi, Rohit Shinde here.<br>- 👀 1 years experience & I’m interested in Design & React.js<br>- 💞️ I love to create awesome websites using WordPress and React.<br>- 🌱 I’m currently learning Nextjs.<br>- 📫 Reach me {email : 'rohitshinde26072003@gmail.com' , mobile: '7745899252' }<br>- ⭐ Github Profile - https://github.com/rohit-shinde-26<br>- 🌃 Computer Science Student<br>- 🐱‍ Intrested in learning latest technologies. 
+- 👋 Hi, Tushar Gopale here.<br>- 💞️ I love to create awesome websites using WordPress and React.<br>- 🌱 I’m currently learning Nextjs.<br>- 📫 Reach me {email : 'gopaletushar5@gmail.com' , mobile: '9699283024' }<br>- ⭐ Github Profile - https://github.com/Tushar-Gopale-25<br>- 🌃 Computer Application Student<br>- 🐱‍ Intrested in learning latest technologies. 
 
 
 
@@ -21,18 +21,18 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rohit-shinde-26&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rohit-shinde-26&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-shinde-26&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Tushar-Gopale-25&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Tushar-Gopale-25&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar-Gopale-25&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rohit-shinde-26&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Tushar-Gopale-25&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rohit-shinde-26&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Tushar-Gopale-25&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rohit-shinde-26&icon=2&color=1)](https://visitcount.itsvg.in)
