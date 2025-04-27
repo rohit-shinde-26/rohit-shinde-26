@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm ROHIT SHINDE</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Frontend developer from India</h3>
 
 
 
 
 # 💫 About Me:
-- 👋 Hi, Rohit Shinde here.<br>- 👀 1 years experience & I’m interested in Design & React.js<br>- 💞️ I love to create awesome websites using WordPress and React.<br>- 🌱 I’m currently learning Nextjs.<br>- 📫 Reach me {email : 'rohitshinde26072003@gmail.com' , mobile: '7745899252' }<br>- ⭐ Github Profile - https://github.com/rohit-shinde-26<br>- 🌃 Computer Science Student<br>- 🐱‍ Intrested in learning latest technologies. 
+- 👋 Hi, Rohit Shinde here.<br>- 👀 1 years experience & I’m interested in Design & Development. <br>- 💞️ I love to create awesome websites & WebApk using WordPress and React. <br>- 🌱 I’m currently learning Nextjs.<br>- 📫 Reach me {email : 'rohitshinde9252@gmail.com' , mobile: '7745899252' }<br>- ⭐ Github Profile - https://github.com/rohit-shinde-26<br>- 🌃 Computer Science Student<br>- 🐱‍ Intrested in learning latest technologies. 
 
 
 
