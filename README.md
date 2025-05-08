@@ -43,7 +43,7 @@ const RohitDevs = {
         backend: ["RestApi", "FastApi", "Firebase", "Supabase"],
         frontend: ["HTML", "CSS/SCSS", "ReactJs", "WordPress"],
         databases: ["PostgreSQL", "MongoDB", "MySQL"],
-        bots: ["aiogram", "pyrogram", "vkbottle"],
+        Libraries: ["Bootstrap", "Tailwind CSS", "ShadCn UI"],
         devOps: ["Docker", "Git", "Github"],
         GUI: {
             Desktop: ["ReactJs", "ReactTs", "WordPress"],
