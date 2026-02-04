@@ -33,7 +33,7 @@
 
 ```javascript
 const RohitDevs = {
-    OS: ["Linux"],
+    OS: ["Linux","Windows","Mac OS"],
     languages: {
         highLevel: ["Python", "SQL"],
         averageLevel: ["JavaScript"],
