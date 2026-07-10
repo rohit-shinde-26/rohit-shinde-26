@@ -56,21 +56,8 @@ const RohitDevs = {
 
 
 
-<details open>
-<summary><h3>📊 Statistics | </h3> <img height="20px" src="https://visitcount.itsvg.in/api?id=DIMFLIX&label=Profile%20Views&color=12&icon=5&pretty=true" /></summary>
-    <img alt="DIMFLIX-OFFICIAL Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DIMFLIX&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
-
- ![](https://github-readme-stats.vercel.app/api?username=rohit-shinde-26&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rohit-shinde-26&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-shinde-26&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-</details>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rohit-shinde-26&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rohit-shinde-26&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rohit-shinde-26&icon=2&color=1)](https://visitcount.itsvg.in)
+
