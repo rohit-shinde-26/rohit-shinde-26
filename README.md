@@ -341,19 +341,7 @@ MongoDB         █████████████ 70%
 React Native    █████████ 45%
 ```
 
----
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/rohit-shinde-26/rohit-shinde-26/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
-> **Note:** You'll need to enable a GitHub Action to generate this snake animation automatically.
-
----
 
 # 💬 Favorite Quote
 
