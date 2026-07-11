@@ -347,19 +347,7 @@ React Native    █████████ 45%
 
 > **"Success is built one commit at a time."**
 
----
 
-# ⭐ Thanks for Visiting!
-
-<p align="center">
-
-### If you like my work, consider ⭐ starring my repositories.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
-
-</p>
-
----
 
 # 🎖️ Certifications & Learning Journey
 
