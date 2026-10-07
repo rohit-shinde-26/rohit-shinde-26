@@ -143,27 +143,7 @@ class RohitShinde {
 
 </p>
 
----
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rohit-shinde-26&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit-shinde-26&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
 
 # 💻 Featured Projects
 
@@ -252,9 +232,9 @@ Create beautiful resumes and portfolios effortlessly.
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 2027 Goals
 
-- ✅ Master React
+- ✅ Master Java
 - ✅ Master Node.js
 - ✅ Learn System Design
 - ✅ Learn React Native
@@ -353,7 +333,7 @@ React Native    █████████ 45%
 
 | 📚 Course | Status |
 |-----------|--------|
-| Java Programming | ✅ Completed |
+| Java Programming | 🚀 In Progress |
 | React.js | ✅ Learning |
 | Node.js | ✅ Learning |
 | Express.js | ✅ Learning |
